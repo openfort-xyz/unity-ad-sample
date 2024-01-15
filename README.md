@@ -21,6 +21,17 @@ The sample includes:
 
     A Unity sample game that connects to ``ugs-backend`` through [Cloud Code](https://docs.unity.com/ugs/manual/cloud-code/manual). It uses [Openfort Unity SDK](https://github.com/openfort-xyz/openfort-csharp-unity) to have full compatibility with `ugs-backend` responses.
 
+## Workflow diagram
+
+<div align="center">
+    <img
+      width="100%"
+      height="100%"
+      src="https://blog-cms.openfort.xyz/uploads/unity_ads_sample_workflow_9af5eeba53.png?updated_at=2024-01-15T11:53:31.312Z"
+      alt='Openfort Unity LevelPlay Sample diagram'
+    />
+</div>
+
 ## Prerequisites
 + **Get started with Openfort**
   + [Sign in](https://dashboard.openfort.xyz/login) or [sign up](https://dashboard.openfort.xyz/register) and create a new dashboard project
