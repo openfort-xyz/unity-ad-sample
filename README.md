@@ -27,7 +27,7 @@ The sample includes:
     <img
       width="100%"
       height="100%"
-      src="https://blog-cms.openfort.xyz/uploads/unity_ads_sample_workflow_9af5eeba53.png?updated_at=2024-01-15T11:53:31.312Z"
+      src="https://blog-cms.openfort.xyz/uploads/unity_ads_sample_workflow_7b897e13de.png?updated_at=2024-02-06T08:40:49.102Z"
       alt='Openfort Unity LevelPlay Sample diagram'
     />
 </div>
